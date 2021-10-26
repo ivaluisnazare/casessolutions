@@ -1,2 +1,2 @@
 
-# **Some cases's solutions in java**
+# **Some cases's solutions in java** :dragon:
