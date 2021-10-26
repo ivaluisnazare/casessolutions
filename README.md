@@ -1,2 +1,2 @@
 # casessolutions
-**##some cases's solutions in java**
+## **some cases's solutions in java**
